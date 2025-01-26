@@ -2,19 +2,6 @@
 
 This project analyzes eCommerce transaction data to perform exploratory data analysis, build a lookalike model, and perform customer segmentation.
 
-## Project Structure
-```
-ecommerce_analysis/
-├── data/                    # Data files
-├── notebooks/              # Jupyter notebooks
-│   ├── EDA.ipynb
-│   ├── Lookalike.ipynb
-│   └── Clustering.ipynb
-├── reports/                # Generated analysis reports
-├── requirements.txt        # Project dependencies
-└── README.md              # Project documentation
-```
-
 ## Setup Instructions
 1. Create a virtual environment:
    ```
